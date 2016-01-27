@@ -1,0 +1,5 @@
+C:\Dev\GitHub\HotelOrigin\HotelOrigin\HotelOrigin.Core\obj\Debug\HotelOrigin.Core.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\HotelOrigin\HotelOrigin\HotelOrigin.Core\bin\Debug\HotelOrigin.Core.dll
+C:\Dev\GitHub\HotelOrigin\HotelOrigin\HotelOrigin.Core\bin\Debug\HotelOrigin.Core.pdb
+C:\Dev\GitHub\HotelOrigin\HotelOrigin\HotelOrigin.Core\obj\Debug\HotelOrigin.Core.dll
+C:\Dev\GitHub\HotelOrigin\HotelOrigin\HotelOrigin.Core\obj\Debug\HotelOrigin.Core.pdb
